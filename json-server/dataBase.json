@@ -1,0 +1,18 @@
+{
+  "people": [
+    {
+      "name": "Rafael",
+      "lastName": "Orozco",
+      "gender": "Female",
+      "year": 20,
+      "occupation": "Development"
+    },
+    {
+      "name": "Laura",
+      "lastName": "Mosquera",
+      "gender": "Female",
+      "year": 25,
+      "occupation": "Inger"
+    }
+  ]
+}
